@@ -1,0 +1,11 @@
+$(document).ready(function(){
+  $("div").animate({top:"50px"},700,function(){
+      $("legend").slideDown(700,function(){
+          $("input").slideDown(800,function(){
+              $("label").fadeIn(700,function(){
+                  $("button").fadeIn(600)
+              })
+          })
+      })
+  })
+});

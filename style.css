@@ -1,0 +1,8 @@
+body{background-color: black;}
+div{height: 350px;width: 500px;background-color: rgb(240, 238, 238);border-radius:6%;text-align: center;margin: auto; margin-top: 100px;position: relative;top: -500px;}
+legend{font-weight: bolder;font-size: 25px;margin: 40px 0 40px 0;line-height: 60px;display: none;}
+.lol{margin-top: 10px;height: 25px;width: 250px;border-radius: 3%;text-indent: 5%;border:3px solid grey;display: none;}
+.follow{float: left;margin:50px 0 0 5px ;display: none;}
+.follow1{float: left;margin: 55px 0 0 45px;display: none;}
+.lolan{float: right;margin: 50px 45px 0 0;background-color: grey;line-height: 20px;display: none;}
+
